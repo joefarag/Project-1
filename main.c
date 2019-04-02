@@ -8,6 +8,5 @@ int main() {
   scanf("%d", &x);
   printf("Key: \n");
   
-f
   return 0;
 }
